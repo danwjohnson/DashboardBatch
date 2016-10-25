@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:batch="http://www.springframework.org/schema/batch"
+	xmlns:mongo="http://www.springframework.org/schema/data/mongo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+						http://www.springframework.org/schema/beans/spring-beans.xsd
+						http://www.springframework.org/schema/batch
+						http://www.springframework.org/schema/batch/spring-batch-3.0.xsd
+						http://www.springframework.org/schema/data/mongo
+						http://www.springframework.org/schema/data/mongo/spring-mongo.xsd">
+						
+						
+	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+		<property name="url" value="jdbc:mysql://localhost:3306/batch_repository?useSSL=false" />
+		<property name="username" value="root" />
+		<property name="password" value="Admin123" />
+	</bean>
+	
+	<job id="loadSkus" xmlns="http://www.springframework.org/schema/batch" >
+	
+		<step id="loadSkusIntoMongo">
+			<tasklet>
+				<chunk reader="skuReader" processor="skuProcessor" writer="mongoSkuWriter" commit-interval="1" skip-limit="5">
+					<skippable-exception-classes>
+						<!--<include class="org.springframework.batch.item.file.FlatFileParseException"/> -->
+					</skippable-exception-classes>
+				</chunk>
+			</tasklet>
+		</step>
+		
+	</job>
+	
+	<bean id="jdbcSkipListener" class="com.ulta.merchandise.dashboard.spring.data.DatabaseSkipListener">
+		<constructor-arg name="dataSource" ref="dataSource" />
+	</bean>
+	
+	<!-- This is the bean to read in the Sku CSV file and map them to the UltaSku object -->
+	<bean id="skuReader" class="org.springframework.batch.item.file.FlatFileItemReader">
+		
+		<property name="resource" value="classpath:csv/sku-file-1-little-larger.csv" />
+		
+		<property name="lineMapper">
+			<bean class="org.springframework.batch.item.file.mapping.DefaultLineMapper">
+				<property name="lineTokenizer">
+					<bean class="org.springframework.batch.item.file.transform.DelimitedLineTokenizer">
+						<property name="delimiter" value="," />
+						<property name="names" value="skuType, brand, featureCode, retailProductId, retailProductName, itemDescription, productKey,
+			 										  ultaSkuNumber, upcNumber, addUpcNumber, defaultUpcNumber, vendorStyleNumber, colorOrShade, shadeName" />
+			 		</bean>
+				</property>
+				<property name="fieldSetMapper">
+					<bean class="com.ulta.merchandise.dashboard.spring.file.SkuFieldSetMapper"/>
+				</property>
+			</bean>
+		</property>
+	</bean>
+	
+	
+	<!-- This is the bean to process the Skus that have been mapped to the UltaSku object -->
+	<bean id="skuProcessor" class="com.ulta.merchandise.dashboard.spring.item.SkuProcessor" />
+	
+	
+	<bean id="mongoSkuWriter" class="com.ulta.merchandise.dashboard.spring.item.MongoSkuWriter">
+		<constructor-arg ref="mongoTemplate"/>
+		<property name="collectionName" value="skus" />
+	</bean>
+	
+	<bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
+		<constructor-arg name="mongoDbFactory" ref="mongoDbFactory" />
+		<constructor-arg name="mongoConverter" ref="mappingConverter" /> 
+	</bean>
+	
+	<mongo:mongo host="localhost" port="27017" />
+	<mongo:db-factory dbname="test"/>
+	
+	<mongo:mapping-converter>
+		<mongo:custom-converters>
+			<mongo:converter>
+				<bean class="com.ulta.merchandise.dashboard.spring.item.FieldSetConverter" />
+			</mongo:converter>
+		</mongo:custom-converters>
+	</mongo:mapping-converter>
+
+</beans>

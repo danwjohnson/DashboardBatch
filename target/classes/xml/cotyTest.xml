@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data Schema="RSXML4.1" xmlns="http://schemas.riversand.com/mdmcenter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.riversand.com/mdmcenter/RSXml4.1.xsd">
+	<Entities>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286274" Id="431330" Locale="en_WW" LongName="OPI I.S. FROM HERE TO ETERNITY .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286274]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286275" Id="431331" Locale="en_WW" LongName="OPI I.S. SHE WENT ON &amp; ON &amp; ON .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286275]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286276" Id="431332" Locale="en_WW" LongName="OPI I.S. GIRL WITHOUT LIMITS .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286276]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286277" Id="431333" Locale="en_WW" LongName="OPI I.S. RUNNING W/IN-FINITE CROWD .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286277]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286278" Id="431334" Locale="en_WW" LongName="OPI I.S. ENDURANCE RACE TO FINISH .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286278]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286273" Id="431339" Locale="en_WW" LongName="OPI I.S. PRETTY PNK PERSERVERES .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286273]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286279" Id="431340" Locale="en_WW" LongName="OPI I.S. NO STOPPING ME NOW .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286279]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286280" Id="431341" Locale="en_WW" LongName="OPI I.S. UNREPENTANTLY RED .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286280]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286281" Id="431342" Locale="en_WW" LongName="OPI I.S. UNEQUIVOCALLY CRIMSON .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286281]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286282" Id="431343" Locale="en_WW" LongName="OPI I.S. RELENTLESS RUBY .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286282]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286283" Id="431344" Locale="en_WW" LongName="OPI I.S. IN PURSUIT OF PURPLE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286283]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286284" Id="431345" Locale="en_WW" LongName="OPI I.S. GRAPELY ADMIRED .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286284]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286285" Id="431346" Locale="en_WW" LongName="OPI I.S. CAN'T BE BEET .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286285]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286286" Id="431347" Locale="en_WW" LongName="OPI I.S. RAISIN' THE BAR .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286286]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286287" Id="431348" Locale="en_WW" LongName="OPI I.S. WE'RE IN THE BLACK .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286287]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286288" Id="431349" Locale="en_WW" LongName="OPI I.S. GET RYD-OF-THYM BLUES .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286288]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286289" Id="431350" Locale="en_WW" LongName="OPI I.S. INDIGNANTLY INDIGO .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286289]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286290" Id="431351" Locale="en_WW" LongName="OPI I.S. TO INFINITY &amp; BLUE-YOND .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286290]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286291" Id="431352" Locale="en_WW" LongName="OPI I.S. WITHSTANDS TEST OF THYME .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286291]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286292" Id="431353" Locale="en_WW" LongName="OPI I.S. TO THE FINISH LIME! .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286292]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286293" Id="431354" Locale="en_WW" LongName="OPI I.S. MAINTAINING MY SAND-ITY .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286293]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286294" Id="431355" Locale="en_WW" LongName="OPI I.S. TANACIOUS SPIRIT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286294]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286295" Id="431356" Locale="en_WW" LongName="OPI I.S. BRAINS &amp; BRONZE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286295]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286296" Id="431357" Locale="en_WW" LongName="OPI I.S. SET IN STONE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286296]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286297" Id="431358" Locale="en_WW" LongName="OPI I.S. NEVER GIVE UP .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286297]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286298" Id="431359" Locale="en_WW" LongName="OPI I.S. STRONG COAL-ITION .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286298]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286299" Id="431360" Locale="en_WW" LongName="OPI I.S. STEEL WATERS RUN DEEP .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286299]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286300" Id="431361" Locale="en_WW" LongName="OPI I.S. STAYING NEUTRAL .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286300]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286301" Id="431362" Locale="en_WW" LongName="OPI I.S. IT NEVER ENDS .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286301]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286302" Id="431363" Locale="en_WW" LongName="OPI I.S. YOU CAN COUNT ON IT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286302]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286303" Id="431364" Locale="en_WW" LongName="OPI I.S. BASE COAT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286303]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286304" Id="431367" Locale="en_WW" LongName="OPI I.S. TOP COAT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286304]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286322" Id="431368" Locale="en_WW" LongName="OPI INFINITE SHINE ENSEMBLE 108PC" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286322]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2286580" Id="431369" Locale="en_WW" LongName="OPI I.S. INFINITE SHINE DUO PACK" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2286580]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291063" Id="431370" Locale="en_WW" LongName="OPI I.S. LAVENDURABLE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291063]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291064" Id="431371" Locale="en_WW" LongName="OPI I.S. FOLLOW YOUR BLISS .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291064]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291067" Id="431372" Locale="en_WW" LongName="OPI I.S. SILVER ON ICE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291067]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291068" Id="431373" Locale="en_WW" LongName="OPI I.S. YOU'RE BLUSHING AGAIN .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291068]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291059" Id="431375" Locale="en_WW" LongName="OPI I.S. NON STOP WHITE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291059]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291060" Id="431376" Locale="en_WW" LongName="OPI I.S. ETERNALLY TURQUOISE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291060]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291061" Id="431377" Locale="en_WW" LongName="OPI I.S. TO BE CONTINUED# .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291061]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291062" Id="431378" Locale="en_WW" LongName="OPI I.S. PUPLETUAL EMOTION .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291062]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291069" Id="431485" Locale="en_WW" LongName="OPI I.S. PATIENCE PAYS OFF .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291069]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2291305" Id="431486" Locale="en_WW" LongName="OPI I.S. THE BEIGE OF REASON .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2291305]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293737" Id="431487" Locale="en_WW" LongName="OPI I.S. GLOW THE EXTRA MILE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293737]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293738" Id="431488" Locale="en_WW" LongName="OPI I.S. SUBSTANTIALLY TAN .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293738]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293739" Id="431489" Locale="en_WW" LongName="OPI I.S. HOLD OUT FOR MORE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293739]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293740" Id="431490" Locale="en_WW" LongName="OPI I.S. ENDLESS PURPLE PURSUIT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293740]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293741" Id="431491" Locale="en_WW" LongName="OPI I.S. LINGER OVER COFFEE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293741]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293742" Id="431492" Locale="en_WW" LongName="OPI I.S. STICK TO YOUR BURGUNDIES .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293742]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293743" Id="431493" Locale="en_WW" LongName="OPI I.S. INDEFINITELY BABY .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293743]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293744" Id="431494" Locale="en_WW" LongName="OPI I.S. IF YOU PERSIST .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293744]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293745" Id="431495" Locale="en_WW" LongName="OPI I.S. YOU SUSTAIN ME .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293745]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293746" Id="431496" Locale="en_WW" LongName="OPI I.S. STICK IT OUT .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293746]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293747" Id="431500" Locale="en_WW" LongName="OPI I.S. DEFY EXPLANATION .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293747]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2293748" Id="431501" Locale="en_WW" LongName="OPI I.S. BERRY ON FOREVER .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2293748]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500024" Id="431576" Locale="en_WW" LongName="OPI I.S. DON'T PROVOKE THE PLUM .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500024]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[Don't Provoke the Plum]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500025" Id="431577" Locale="en_WW" LongName="OPI I.S. HALF PAST NUDE .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500025]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[Half Past Nude]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500026" Id="431578" Locale="en_WW" LongName="OPI I.S. IT'S PINK P.M. .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500026]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[It's Pink P.M.]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500027" Id="431579" Locale="en_WW" LongName="OPI I.S. ROSE AGAINST TIME .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500027]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[Rose Against Time]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500028" Id="431580" Locale="en_WW" LongName="OPI I.S. SUNRISE TO SUNSET! .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500028]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[Sunrise to Sunset!]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+		<Entity Action="Add" CategoryId="431048" CategoryLongName="4234 - Hybrid Lacquers" CategoryLongNamePath="" CategoryName="4234" CategoryPath="04//041//278//4234" ContainerId="3" ContainerName="ULTA Master" EntityTypeId="16" EntityTypeName="SKU" ExternalId="2500029" Id="431581" Locale="en_WW" LongName="OPI I.S. IN FAMILIAR TERRA-TORY .5OZ" OrganizationName="ULTA" ParentEntityId="431048" ParentExtensionEntityCategoryId="0" ParentExtensionEntityCategoryLongNamePath="" ParentExtensionEntityCategoryPath="" ParentExtensionEntityContainerId="0" ParentExtensionEntityContainerName="" ParentExtensionEntityExternalId="" ParentExtensionEntityId="0" ParentExternalId="4234">
+			<Attributes>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4015" InstanceRefId="-1" Locale="en_WW" LongName="ULTA SKU Number" Name="UltaSKU" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[2500029]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4126" InstanceRefId="-1" Locale="en_WW" LongName="Vendor Color/Shade Name" Name="VendorColorShadeName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[In Familiar Terra-Tory]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4173" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product Name" Name="RetailProductName" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[INFINITE SHINE]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="Integer" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4174" InstanceRefId="-1" Locale="en_WW" LongName="Retail Product ID" Name="RetailProductID" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="-1"><![CDATA[1022]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="Add" AttributeDataType="String" AttributeParentId="4001" AttributeParentName="BasicItemInformation" AttributeType="Simple" Id="4227" InstanceRefId="-1" Locale="en_WW" LongName="Product Key" Name="ProductKey" Sequence="-1">
+					<Values>
+						<Value Action="Add" DisplayValue="" HasInvalidValue="False" Id="0" Locale="en_WW" Sequence="-1" Uom="" ValueRefId="130"><![CDATA[NAIL ENAMEL]]></Value>
+					</Values>
+				</Attribute>
+				<Attribute Action="NoChange" AttributeDataType="String" AttributeParentId="4000" AttributeParentName="AdditionalItemDetails" AttributeType="Simple" Id="4162" InstanceRefId="-1" Locale="en_WW" LongName="Collection Name" Name="CollectionName" Sequence="-1">
+					<Values/>
+				</Attribute>
+			</Attributes>
+			<Hierarchies/>
+			<Relationships/>
+			<Extensions/>
+		</Entity>
+	</Entities>
+</Data>

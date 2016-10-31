@@ -14,7 +14,7 @@ public class PrintXmlElements {
 	public static void main(String args[]) throws Exception {
 		
 		DocumentBuilder db = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-		org.w3c.dom.Document doc = db.parse(new File("classpath*:/xml/cotyTest.xml"));
+		org.w3c.dom.Document doc = db.parse(new File("src/main/resources/xml/cotyTest.xml"));
 		
 		NodeList entity = doc.getElementsByTagName("Entity");
 		Node entityNode = entity.item(0);

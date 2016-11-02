@@ -1,6 +1,7 @@
 package com.ulta.merchandise.dashboard.spring.main;
 
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
@@ -20,28 +21,60 @@ public class ParserDOM {
 			NodeList root = doc.getChildNodes();
 			
 			// navigate down the hierarchy to get the Entity node
-			Node data = getNode("Data", root);
-			Node entities = getNode("Entities", data.getChildNodes());
-			Node entity = getNode("Entity", entities.getChildNodes());
-			Node attributes = getNode("Attributes", entity.getChildNodes());
-			Node attribute = getNode("Attribute", attributes.getChildNodes());
-			Node values = getNode("Values", attribute.getChildNodes());
-			Node value = getNode("Value", values.getChildNodes());
 			
-			if (value.getNodeType() == Node.CDATA_SECTION_NODE) {
+			System.out.println("Length of root it : " + root.getLength());
+			
+			NodeList entitiesList;
+			
+			for (int i = 0; i < root.getLength(); i++) {
+				Node data = getNode("Data", root);
+				Node entities = getNode("Entities", data.getChildNodes());
 				
-				System.out.println("The value node contains cdata.");
-			
-			}
-			
-			System.out.println("Value is : " + value.getNodeValue());
+				entitiesList = entities.getChildNodes();
+				System.out.println("Length of entities list : " + entitiesList.getLength());
+				
+				int count = 1;
+				
+				Node entity;
+				Node attribute;
+				Node attributes;
+				Node values;
+				Node value;
+				Element valueElement;
+				
+				for(int j = 0; j < entitiesList.getLength(); j++){
 					
+					entity = entitiesList.item(j).getNextSibling();
+					// entity = getNode("Entity", entities.getChildNodes());
+					attributes = getNode("Attributes", entity.getChildNodes());
+					attribute = getNode("Attribute", attributes.getChildNodes());
+					values = getNode("Values", attribute.getChildNodes());
+					value = getNode("Value", values.getChildNodes());
+					
+					valueElement = (Element)value;
+					
+					System.out.println("Value is : " + valueElement.getFirstChild().getNodeValue().trim());
+					
+					count++;
+					
+					
+			
+				}
+
+				System.out.println("Count of entities : " + count);
+				
+			}
+					
+			
+			
 			
 			System.out.println("Parsing completed");
 			
 		}
 		
 		catch(Exception ex) {
+			
+			ex.printStackTrace();
 			
 		}
 	}

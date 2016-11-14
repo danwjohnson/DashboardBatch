@@ -3,9 +3,14 @@ package com.ulta.merchandise.dashboard.spring.main;
 import javax.xml.parsers.*;
 import org.xml.sax.*;
 import org.xml.sax.helpers.*;
+
+import com.ulta.merchandise.dashboard.spring.bean.PimAttribute;
+import com.ulta.merchandise.dashboard.spring.bean.PimEntity;
+
 import org.w3c.dom.*;
 
 import java.io.*;
+import java.util.ArrayList;
 public class DomPrint {
 
 	// All output will be this encoding
@@ -19,6 +24,9 @@ public class DomPrint {
 	
 	// Indentation will be in multiples of basicIndent
 	private final String basicIndent = "  ";
+	
+	// PIM Entity Object
+	PimEntity pimEntity = new PimEntity();
 	
 	// Constants for JAXP 1.2
 	static final String JAXP_SCHEMA_LANGUAGE = "http://java.sun.com/xml/jaxp/properties/schemaLanguage";
@@ -138,6 +146,63 @@ public class DomPrint {
             out.print("ELEM:");
             printlnCommon(n);
 
+            
+            PimAttribute pimAttribute = new PimAttribute();
+            
+            if (n.getNodeName().equals("Entity")) {
+            	
+            	NamedNodeMap attrs = n.getAttributes();
+            	for (int j = 0; j < attrs.getLength(); j++) {
+            		
+            		Node attr = attrs.item(j);
+            		
+            		if(attr.getNodeName().equals("CategoryLongName")){
+            			pimEntity.setCategory(attr.getNodeValue());
+            		}
+            		
+            		if(attr.getNodeName().equals("CategoryPath")) {
+            			pimEntity.setCategoryPath(attr.getNodeValue());
+            		}
+            		
+            		if(attr.getNodeName().equals("ExternalId")){
+            			pimEntity.setExternalId(attr.getNodeValue());
+            		}
+            		
+            		if(attr.getNodeName().equals("LongName")){
+            			pimEntity.setLongName(attr.getNodeValue());
+            		}
+            		
+            	}
+            	
+            	
+            } else if(n.getNodeName().equals("Attribute")) {
+            	
+            	NamedNodeMap attrs = n.getAttributes();
+            	for (int j = 0; j < attrs.getLength(); j++) {
+            		
+            		Node attr = attrs.item(j);
+            		
+            		if(attr.getNodeName().equals("AttributeParentName")) {
+            			pimAttribute.setAttributeParentName(attr.getNodeValue());
+            			pimEntity.addAttribute(pimAttribute);
+            		}
+            		
+            		if(attr.getNodeName().equals("LongName")) {
+            			pimAttribute.setAttributeName(attr.getNodeValue());
+            			pimEntity.addAttribute(pimAttribute);
+            		}
+            		
+            	}
+            	
+            	//ArrayList<PimAttribute> tempList = new ArrayList<PimAttribute>();
+            	//tempList.add(pimAttribute);
+            	
+            	
+            }
+            
+            System.out.println("This is the created PIM Entity : " + pimEntity.toString());
+            
+            
             // Print attributes if any.  Note: element attributes are not
             // children of ELEMENT_NODEs but are properties of their
             // associated ELEMENT_NODE.  For this reason, they are printed
@@ -208,6 +273,8 @@ public class DomPrint {
         boolean ignoreComments = false;
         boolean putCDATAIntoText = false;
         boolean createEntityRefs = false;
+        
+        ArrayList<Entity> entities = new ArrayList<Entity>();
 
         for (int i = 0; i < args.length; i++) {
             if (args[i].equals("-dtd")) {

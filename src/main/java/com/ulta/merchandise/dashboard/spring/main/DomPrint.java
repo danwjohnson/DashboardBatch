@@ -28,6 +28,7 @@ public class DomPrint {
 	// PIM Entity Object
 	PimEntity pimEntity = new PimEntity();
 	
+	
 	// Constants for JAXP 1.2
 	static final String JAXP_SCHEMA_LANGUAGE = "http://java.sun.com/xml/jaxp/properties/schemaLanguage";
 	static final String W3C_XML_SCHEMA = "http://www.w3.org/2001/XMLSchema";
@@ -104,7 +105,9 @@ public class DomPrint {
      * Recursive routine to print out DOM tree nodes
      */
     private void echo(Node n) {
-        // Indent to the current level before printing anything
+
+    	PimAttribute pimAttribute = new PimAttribute();
+    	// Indent to the current level before printing anything
         outputIndentation();
 
         int type = n.getNodeType();
@@ -116,6 +119,11 @@ public class DomPrint {
         case Node.CDATA_SECTION_NODE:
             out.print("CDATA:");
             printlnCommon(n);
+            
+            pimAttribute.setValue(n.getNodeValue());
+            
+            pimEntity.addAttribute(pimAttribute);
+            
             break;
         case Node.COMMENT_NODE:
             out.print("COMM:");
@@ -145,10 +153,7 @@ public class DomPrint {
         case Node.ELEMENT_NODE:
             out.print("ELEM:");
             printlnCommon(n);
-
-            
-            PimAttribute pimAttribute = new PimAttribute();
-            
+           
             if (n.getNodeName().equals("Entity")) {
             	
             	NamedNodeMap attrs = n.getAttributes();
@@ -177,6 +182,7 @@ public class DomPrint {
             	
             } else if(n.getNodeName().equals("Attribute")) {
             	
+            	
             	NamedNodeMap attrs = n.getAttributes();
             	for (int j = 0; j < attrs.getLength(); j++) {
             		
@@ -184,15 +190,15 @@ public class DomPrint {
             		
             		if(attr.getNodeName().equals("AttributeParentName")) {
             			pimAttribute.setAttributeParentName(attr.getNodeValue());
-            			pimEntity.addAttribute(pimAttribute);
             		}
             		
             		if(attr.getNodeName().equals("LongName")) {
             			pimAttribute.setAttributeName(attr.getNodeValue());
-            			pimEntity.addAttribute(pimAttribute);
             		}
             		
             	}
+            	
+            	
             	
             	//ArrayList<PimAttribute> tempList = new ArrayList<PimAttribute>();
             	//tempList.add(pimAttribute);

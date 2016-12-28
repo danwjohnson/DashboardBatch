@@ -9,7 +9,7 @@ public class PimEntity {
 	private String externalId;
 	private String longName;
 	
-	private ArrayList<PimAttribute> attributes;
+	private ArrayList<PimAttribute> attributes = new ArrayList<PimAttribute>();
 
 	
 	// Getter and Setters
